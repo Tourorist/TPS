@@ -1,3 +1,3 @@
 TPS
 ===
-An open directory for miscellaneous and my personal files.
+An open directory of miscellaneous and personal files.
